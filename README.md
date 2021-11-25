@@ -10,6 +10,6 @@ python main.py
 ```
 
 # Screenshot
-<img src ="ss\ss.PNG"
+<img src ="ss\ss.PNG">
      
 Made with ❤️
